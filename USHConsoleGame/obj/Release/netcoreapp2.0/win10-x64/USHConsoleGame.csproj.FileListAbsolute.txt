@@ -1,0 +1,14 @@
+C:\Users\Jexington\source\repos\USHConsoleGame\USHConsoleGame\bin\Release\netcoreapp2.0\win10-x64\hostpolicy.dll
+C:\Users\Jexington\source\repos\USHConsoleGame\USHConsoleGame\bin\Release\netcoreapp2.0\win10-x64\hostfxr.dll
+C:\Users\Jexington\source\repos\USHConsoleGame\USHConsoleGame\bin\Release\netcoreapp2.0\win10-x64\USHConsoleGame.exe
+C:\Users\Jexington\source\repos\USHConsoleGame\USHConsoleGame\bin\Release\netcoreapp2.0\win10-x64\USHConsoleGame.deps.json
+C:\Users\Jexington\source\repos\USHConsoleGame\USHConsoleGame\bin\Release\netcoreapp2.0\win10-x64\USHConsoleGame.runtimeconfig.json
+C:\Users\Jexington\source\repos\USHConsoleGame\USHConsoleGame\bin\Release\netcoreapp2.0\win10-x64\USHConsoleGame.runtimeconfig.dev.json
+C:\Users\Jexington\source\repos\USHConsoleGame\USHConsoleGame\bin\Release\netcoreapp2.0\win10-x64\USHConsoleGame.dll
+C:\Users\Jexington\source\repos\USHConsoleGame\USHConsoleGame\bin\Release\netcoreapp2.0\win10-x64\USHConsoleGame.pdb
+C:\Users\Jexington\source\repos\USHConsoleGame\USHConsoleGame\obj\Release\netcoreapp2.0\win10-x64\USHConsoleGame.csprojAssemblyReference.cache
+C:\Users\Jexington\source\repos\USHConsoleGame\USHConsoleGame\obj\Release\netcoreapp2.0\win10-x64\USHConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\Jexington\source\repos\USHConsoleGame\USHConsoleGame\obj\Release\netcoreapp2.0\win10-x64\USHConsoleGame.AssemblyInfoInputs.cache
+C:\Users\Jexington\source\repos\USHConsoleGame\USHConsoleGame\obj\Release\netcoreapp2.0\win10-x64\USHConsoleGame.AssemblyInfo.cs
+C:\Users\Jexington\source\repos\USHConsoleGame\USHConsoleGame\obj\Release\netcoreapp2.0\win10-x64\USHConsoleGame.dll
+C:\Users\Jexington\source\repos\USHConsoleGame\USHConsoleGame\obj\Release\netcoreapp2.0\win10-x64\USHConsoleGame.pdb

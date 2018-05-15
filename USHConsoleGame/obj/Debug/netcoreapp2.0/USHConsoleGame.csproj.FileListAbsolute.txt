@@ -1,0 +1,11 @@
+C:\Users\Jexington\source\repos\USHConsoleGame\USHConsoleGame\bin\Debug\netcoreapp2.0\USHConsoleGame.deps.json
+C:\Users\Jexington\source\repos\USHConsoleGame\USHConsoleGame\bin\Debug\netcoreapp2.0\USHConsoleGame.runtimeconfig.json
+C:\Users\Jexington\source\repos\USHConsoleGame\USHConsoleGame\bin\Debug\netcoreapp2.0\USHConsoleGame.runtimeconfig.dev.json
+C:\Users\Jexington\source\repos\USHConsoleGame\USHConsoleGame\bin\Debug\netcoreapp2.0\USHConsoleGame.dll
+C:\Users\Jexington\source\repos\USHConsoleGame\USHConsoleGame\bin\Debug\netcoreapp2.0\USHConsoleGame.pdb
+C:\Users\Jexington\source\repos\USHConsoleGame\USHConsoleGame\obj\Debug\netcoreapp2.0\USHConsoleGame.csprojAssemblyReference.cache
+C:\Users\Jexington\source\repos\USHConsoleGame\USHConsoleGame\obj\Debug\netcoreapp2.0\USHConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\Jexington\source\repos\USHConsoleGame\USHConsoleGame\obj\Debug\netcoreapp2.0\USHConsoleGame.AssemblyInfoInputs.cache
+C:\Users\Jexington\source\repos\USHConsoleGame\USHConsoleGame\obj\Debug\netcoreapp2.0\USHConsoleGame.AssemblyInfo.cs
+C:\Users\Jexington\source\repos\USHConsoleGame\USHConsoleGame\obj\Debug\netcoreapp2.0\USHConsoleGame.dll
+C:\Users\Jexington\source\repos\USHConsoleGame\USHConsoleGame\obj\Debug\netcoreapp2.0\USHConsoleGame.pdb
